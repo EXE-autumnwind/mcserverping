@@ -5,5 +5,7 @@
 
 mc服务器信息在代码96行左右
 
+Logo直接放在根目录命名为favicon.ico，会自动识别
+
 [DEMO](https://pingdemo.codewaves.cn/)
 
